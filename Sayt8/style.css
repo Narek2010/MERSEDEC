@@ -1,0 +1,285 @@
+.sss{
+    width: 100%;
+    height: 750px;
+    background-image:url(images/008.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-left: 155px;
+    margin-top: 10px;
+}
+nav{
+    margin-top: 35px;
+    color: white;
+}
+.navbar-nav>a{
+    height: 73px;
+    font-size: 21px;
+    color: #ffffff;
+    font-family: "Gentium Book Basic";
+}
+.sddda{
+    margin-left: 35px;
+}
+.ssffss{
+    margin: 10px 10px 0;
+}
+.ssffss>i{
+    color: #dab33e;
+}
+h1{
+    width: 970px;
+    height: 246px;
+    font-size: 90px;
+    color: #ffffff;
+    font-family: 'Yeseva One', cursive;
+    margin-top: 100px;
+    margin-left: 60px;
+}
+.ddd{
+    margin-top: 20px;
+}
+.aaaa{
+    display: block;
+}
+.aaaa>button{
+    width: 228px;
+    height: 57px;
+    background-color: rgba(255,255,255,0.2784313725490196);
+    border: 1px solid #ffffff; 
+    margin: 50px 20px 0;
+    border-radius: 0px;
+}
+.aaaa>button:hover{
+    background-color: rgba(0,0,0,0.7019607843137254);
+    border: 1px solid #000000;
+    color: white;
+}
+.rrrr{
+    height: 710px;
+    background-image: url(images/Background1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h3{
+    font-size: 36px;
+    font-family: "Yeseva One";
+    font-weight: 400;
+    margin-top: 100px;
+}
+.h3h3{
+        color: #cc9900;
+}
+.sds{
+    width: 412px;
+    height: 130px;
+    font-size: 16px;
+    color: #4c4c4c;
+    font-family: "Lato";
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.cook{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.dish{
+    margin-top: 60px;
+}
+.fffg{
+    height: 760px;
+    background-image: url(images/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ej{
+    width: 570px;
+    height: 557px;
+    background-color: rgba(0,0,0,0.5019607843137254);
+    margin-top: 100px;
+}
+.h3h2{
+    padding-top: 70px;
+    color: white;
+}
+.sdss{
+    width: 412px;
+    height: 130px;
+    font-size: 16px;
+    color: white;
+    font-family: "Lato";
+    font-weight: 400;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.nnkar{
+    margin: 60px 5px 0;
+}
+#h5l5{
+    width: 80px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    display: none;
+}
+#erku:hover #h5l5{
+    background-color: fuchsia;    ?
+}
+.ccccd{
+    height: 995px;
+    background-image: url(images/Background2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h4{
+    font-size: 21px;
+    color: #c89f2d;
+    font-family: "Yeseva One";
+    font-weight: 400;
+    line-height: 0px;
+    margin-top: 30px;
+}
+hr{ 
+    width: 420px;
+    background-color: #E4dab4;
+    margin-left: 15px;
+}
+.t5544{
+    margin-left: 15px;
+    line-height: 5px;
+}
+.ddfffd{
+    border: 1px solid #E4dab4;
+    height: 80px;
+}
+.h444{
+    margin-top: 15px;
+}
+.spl{
+    position: relative;
+    width: 70px;
+    height: 20px;
+    background-image: url(images/bgkkk.png);
+    left: 375px;
+}
+.ffssssf{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.ggggl{
+    height: 760px;
+    background-image: url(images/bbbbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.patuhan{
+    width: 770px;
+    height: 560px;
+    margin: 100px auto;
+    background-image: url(images/patuhan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h5{
+    width: 605px;
+    height: 260px;
+    font-size: 25px;
+    line-height: 45px;
+    color: #dde0df;
+    font-family: "Gentium Book Basic";
+    font-weight: 700;
+    margin: 20px auto;
+}
+.kk55{
+    float: left;
+    margin: 100px 15px;
+}
+.ssssdd{
+    font-size: 16px;
+    color: #4c4c4c;
+    font-family: "Lato";
+    font-weight: 400;
+    margin: 0 auto;
+}
+label{
+    width: 116px;
+    height: 17px;
+    font-size: 14px;
+    color: #c9a131;
+    font-family: "Open Sans";
+    font-weight: 700;
+    margin-top: 20px;
+}
+#name{
+    width: 200px;
+    height: 35px;
+}
+.fffgj{
+    border-radius: 0px;
+    border: 1px solid #C8c6c6;
+    font-size: 16px;
+    color: #7c7c7c;
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: italic;
+}
+.date1{
+    width: 200px;
+}
+#basic-addon1{
+    background-color: white;
+}
+.gh445{
+    width: 200px;
+}
+.rowww{
+    margin-top: 40px;
+}
+select:hover{
+    border: 1px solid #c89f2d;
+}
+input:hover{
+    border: 1px solid #c89f2d;
+}
+.ddss434{
+    width: 200px;
+    margin: 30px auto;
+    text-align: center;
+}
+.ddss434>button{
+    width: 200px;
+    background-color: #c9a131;
+    color: white;
+    font-size: 16px;
+    border-radius: 0px;
+}
+.rtrtrt{
+    height: 320px;
+    background-image: url(images/footer.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h6{
+    font-size: 16px;
+    line-height: 25px;
+    color: white;
+    font-family: "Gentium Book Basic";
+    font-weight: 700;
+    margin-top: 50px;
+}
+.s4s4s{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
